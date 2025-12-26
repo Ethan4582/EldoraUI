@@ -1,20 +1,14 @@
 <div align="center">
+<h1 align="center">SaaS Landing Page Template</h1>
   <a href="https://ash-cv.vercel.app/">
-    <img src="https://github.com/Ethan4582/EldoraUI/blob/master/Demo/demo.png" alt="Logo" width="60" height="60">
+    <img src="https://raw.githubusercontent.com/Ethan4582/EldoraUI/refs/heads/master/Demo/demo.png" alt="Logo" width="full" height="full">
   </a>
 
-  <h1 align="center">SaaS Landing Page Template</h1>
-
-  <p align="center">
-    A modern, open-source SaaS landing page template built with Next.js, React, TypeScript, Tailwind CSS, and Framer Motion.
-    <br />
-    Clean design • Fully responsive • Easy to customize
-  </p>
-
+  
   <p align="center">
     <a href="https://ash-cv.vercel.app/">Portfolio</a>
     ·
-    <a href="https://github.com/singhashirwad2003">GitHub</a>
+    <a href="https://github.com/Ethan4582">GitHub</a>
     ·
     <a href="mailto:singhashirwad2003@gmail.com">Contact</a>
   </p>

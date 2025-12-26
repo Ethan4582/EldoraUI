@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://ash-cv.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/54c559b8-0dd1-4ef8-a3d0-06f5086224b0" alt="Logo" width="60" height="60">
+    <img src="https://github.com/Ethan4582/EldoraUI/blob/master/Demo/demo.png" alt="Logo" width="60" height="60">
   </a>
 
   <h1 align="center">SaaS Landing Page Template</h1>
